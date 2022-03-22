@@ -2,8 +2,8 @@
 
 I'm a postdoctoral researcher at the Australian National University working at the interface of molecular simulation, biophysics, and high performance computing.  
 
-- 😄 Pronouns: he/him
-- 📫 How to reach me: reach out on Twitter
+- 😄 Pronouns: he/him.
+- 📫 How to reach me: reach out on Twitter.
 - 🔭 I’m currently working on a bunch of cool stuff with the [MDAnalysis](https://github.com/MDAnalysis)
  team! 
 
