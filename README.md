@@ -1,6 +1,6 @@
-### Hi there, I'm Hugo MacDermott-Opeskin! 👋
+### Hi there, I'm Dr Hugo MacDermott-Opeskin! 👋
 
-I'm a postdoctoral researcher at the Australian National University working at the interface of molecular simulation, biophysics, and high performance computing.  
+I'm a research software engineer working at the interface of molecular simulation, biophysics, and high performance computing.  
 
 - 😄 Pronouns: he/him.
 - 📫 How to reach me: send me a message on Twitter.
