@@ -1,10 +1,8 @@
 ### Hi there, I'm Dr Hugo MacDermott-Opeskin! 👋
 
-I'm a research software engineer working at the interface of molecular simulation, biophysics, and high performance computing.  
+I'm a research software engineer working at the interface of machine learning, drug discovery, biophysics, and high performance computing.  
 
-- 😄 Pronouns: he/him.
-- 📫 How to reach me: send me a message on Twitter.
-- 🔭 I’m currently working on a bunch of cool stuff with the [Chodera lab](https://www.choderalab.org/), [ASAP Discovery](https://asapdiscovery.org/), and [MDAnalysis](https://github.com/MDAnalysis)
+I’m currently working on a bunch of cool stuff with the [OpenADMET](https://github.com/OpenADMET) [Chodera lab](https://www.choderalab.org/), [ASAP Discovery](https://asapdiscovery.org/), and [MDAnalysis](https://github.com/MDAnalysis)
  teams! 
 
 <a href="https://twitter.com/HugoMacdermott"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white"/></a>
